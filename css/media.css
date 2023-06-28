@@ -16,6 +16,7 @@
     }
     .infobox{
         margin-bottom: 50px;
+        margin-right: 10px;
     }
     .infobox h3, .infobox h4, .infobox p {
         text-align: center;
