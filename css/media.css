@@ -1,0 +1,34 @@
+@media (max-width: 1150px){
+    .cardbox{
+        justify-content: space-around;
+    }
+    .fa-bars{
+        display: inline-block;
+    }
+    nav{
+        display: none;
+    }
+}
+
+@media (max-width: 800px){
+    .newsbox{
+        display: block;
+    }
+    .infobox{
+        margin-bottom: 50px;
+    }
+    .infobox h3, .infobox h4, .infobox p, h5,  .p-2 {
+        text-align: center;
+        margin-left: 40px;
+    }
+    .cardsbox{
+        justify-content: column;
+    }
+}
+
+
+@media (max-width: 600px){
+    .section-2{
+        justify-content: center;
+    }
+}
