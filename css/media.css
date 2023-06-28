@@ -17,18 +17,15 @@
     .infobox{
         margin-bottom: 50px;
     }
-    .infobox h3, .infobox h4, .infobox p, h5,  .p-2 {
+    .infobox h3, .infobox h4, .infobox p {
         text-align: center;
-        margin-left: 40px;
+    }
+
+    h5,  .p-2 {
+        text-align: center;
+        margin-left: 40px
     }
     .cardsbox{
         justify-content: column;
-    }
-}
-
-
-@media (max-width: 600px){
-    .section-2{
-        justify-content: center;
     }
 }
