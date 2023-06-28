@@ -12,8 +12,10 @@
 
 @media (max-width: 800px){
     .newsbox{
-        display: block;
-        aligh-items: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
     }
     .infobox{
         margin-bottom: 50px;
