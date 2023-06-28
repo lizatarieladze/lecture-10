@@ -13,6 +13,7 @@
 @media (max-width: 800px){
     .newsbox{
         display: block;
+        aligh-items: center;
     }
     .infobox{
         margin-bottom: 50px;
