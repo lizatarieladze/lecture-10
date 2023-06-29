@@ -32,5 +32,6 @@
     }
     .cardsbox{
         justify-content: column;
+        margin-left: 40px;
     }
 }
