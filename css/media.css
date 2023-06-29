@@ -4,6 +4,7 @@
     }
     .fa-bars{
         display: inline-block;
+        vertical-align: center;
     }
     nav{
         display: none;
